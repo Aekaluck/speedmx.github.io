@@ -1,8 +1,7 @@
-Origin: (Your Name)'s Repo
-Label: (Your Name)'s Official Repo
+Origin: aEk's Repo
+Label: aEk's Official Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
-Components: main
-Description: (Cydia Description)
+Description: Cydia Description
