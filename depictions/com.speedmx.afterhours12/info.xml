@@ -1,0 +1,44 @@
+<package>
+	<id>com.speedmx.afterhours12</id>
+	<name>AfterHours Mod12</name>
+	<version>1.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[<b>Installed to:</b> </ br>/Library/Themes/ <br /> <br />
+                          <b>Apply with Anemone or SnowBroad</b>]]></description>
+		<description>I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ah1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ah2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ah3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ah4.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ah5.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ah6.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change> - เพิ่ม icon</change>
+		<change> - แก้ไขบาง icon</change>
+		<change> - ลดขนาดธีมลง</change>
+	</changelog>
+</package>
