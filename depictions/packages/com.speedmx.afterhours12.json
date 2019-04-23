@@ -1,0 +1,29 @@
+{
+	"name": "AfterHours Mod12",
+	"package": "com.speedmx.afterhours12",
+	"author": "aEk",
+	"version": "1.1-1",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "untested",
+	"description": "<div>I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12<br><br>Installed to /Library/Themes<br><br></div>",
+	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ],
+	    "1.1-1": [
+	    "SB1: เพิ่ม icon",
+	    "SB2: แก้ไขบาง icon"
+		"SB3: ลดขนาดธีมลง"
+	    ]
+  	},
+	"screenshots": {
+		"ah1.jpg": "",
+		"ah2.jpg": "",
+		"ah3.jpg": "",
+		"ah4.jpg": "",
+		"ah5.jpg": ""
+		"ah6.jpg": ""
+	},
+	"links": {}
+}
