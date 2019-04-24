@@ -3,10 +3,7 @@ body {
     color:#242424;
 }
 h5{
-    font-weight: 700;
-}
-.disable-hover {
-    pointer-events: none;
+    font-weight: 600;
 }
 
 .link-group {
