@@ -84,7 +84,7 @@ $(document).ready(function () {
 
             if (typeof data.minOSVersion != 'undefined') {
                 result += data.minOSVersion;
-                result += (typeof data.maxOSVersion != 'undefined') ? " to " + data.maxOSVersion : "";
+                result += (typeof data.maxOSVersion != 'undefined') ? " - " + data.maxOSVersion : "";
             } else if (typeof data.maxOSVersion != 'undefined') {
                 result += data.maxOSVersion;
             }
