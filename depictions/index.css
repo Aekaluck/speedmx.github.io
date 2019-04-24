@@ -19,31 +19,31 @@
 
 html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
     background-color: #fff;
-	border-radius: 10 !important;
+    border-radius: 10 !important;
 }
 
 html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     background-color: #f5f5f5;
-	border-radius: 10 !important;
+    border-radius: 10 !important;
 }
 
 .fa {
     font-size: 16px;
     margin-left: 10px;
     margin-right: 10px;
-	border-radius: 10 !important;
+    border-radius: 10 !important;
 }
 
 .container {
-	padding-top: 15px !important;
+    padding-top: 15px !important;
     margin-bottom: 15px !important;
-	display: block !important;
+    display: block !important;
     margin: 0 !important;
     border: 0 !important;
     margin-top: 9px !important;
     margin-bottom: 15px !important;
     width: 100% !important;
-	padding-right: 13px;
+    padding-right: 13px;
     padding-left: 13px;
     margin-right: auto;
     margin-left: auto;
@@ -75,15 +75,15 @@ h5 {
 	font-weight: 800 !important;
 	color: #111;
 	font-size: 100%;
-    vertical-align: baseline;
+        vertical-align: baseline;
 	font-size: 20px;
 	border-radius: 10 !important;
 }
 
 .packagetitle {
 	font-size: 35px;
-    font-weight: 800;
-    color: black;
+        font-weight: 800;
+        color: black;
 	max-width: 100%;
 	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 	border-radius: 10 !important;
@@ -99,7 +99,7 @@ h2 {
     font-size: 13px;
     font-weight: 400;
     text-transform: uppercase;
-	border-radius: 10 !important;
+    border-radius: 10 !important;
 }
 
 body {
@@ -107,7 +107,7 @@ body {
     font: 13px "Fira Sans", sans-serif;
     font-weight:400;
     margin-left:12px;
-	border-radius: 10 !important;
+    border-radius: 10 !important;
 }
 
 a:link,
@@ -127,9 +127,10 @@ a:hover {
 }
 
 .row{
-    width:102%;
-	border-radius: 10 !important;
-    margin-left: 10px;
+    width:98%;
+    border-radius: 10 !important;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .list-group-item:last-child 
