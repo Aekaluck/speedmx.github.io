@@ -2,7 +2,7 @@
 	"name": "AfterHours Mod12",
 	"package": "com.speedmx.afterhours12",
 	"author": "Rob Grohman",
-	"version": "1.1-1",
+	"version": "1.0",
 	"dependency": "mobilesubstrate",
 	"minOSVersion": "9.0",
 	"maxOSVersion": "12.1.2",
@@ -10,11 +10,9 @@
 	"description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br>Requires XenInfo for weather/battery components to work properly<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": 
 	{
-	    "1.0": [
+	    "1.0": 
+		[
 	      "Initial release"
-	    ],
-	    "1.1-1" : [
-	      "Fixed temp unit issue"
 	    ]
   	},
 	"screenshots": 

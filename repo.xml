@@ -10,5 +10,10 @@
 			<url>mailto:aek.speedmx@gmail.com</url>
 			<iconclass>fa fa-envelope-open</iconclass>
 		</link>
+		<link>
+	    <name>Buy me a coffee/beer</name>
+	    <url>https://www.paypal.me/speedmx</url>
+			<iconclass>fa fa-paypal</iconclass>
+	  </link>
 	</footerlinks>
 </repo>
