@@ -1,24 +1,27 @@
 {
 	"name": "AfterHours Mod12",
 	"package": "com.speedmx.afterhours12",
-	"author": "aEk",
+	"author": "Rob Grohman",
 	"version": "1.1-1",
+	"dependency": "mobilesubstrate",
 	"minOSVersion": "9.0",
 	"maxOSVersion": "12.1.2",
-	"otheriOS": "untested",
-	"description": "<div>I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12<br><br>Installed to /Library/Themes<br><br></div>",
-	"changelog": {
+	"otheriOS": "unsupported",
+	"description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br>Requires XenInfo for weather/battery components to work properly<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
 	    "1.0": [
 	      "Initial release"
+	    ],
+	    "1.1-1" : [
+	      "Fixed temp unit issue"
 	    ]
   	},
 	"screenshots": {
-		"ah1.jpg": "",
-		"ah2.jpg": "",
-		"ah3.jpg": "",
-		"ah4.jpg": "",
-		"ah5.jpg": "",
-		"ah6.jpg": ""
+		"ah1.png": "",
+		"ah2.png": "",
+		"ah3.png": "",
+		"ah4.png": "",
+		"ah1.png": ""
 	},
 	"links": {}
 }
