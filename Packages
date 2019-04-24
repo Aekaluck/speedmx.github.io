@@ -8,7 +8,7 @@ Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: com.cydia.lnweakky.afterhour12
 Filename: ./debs/com.speedmx.afterhours12_1.0_iphoneos-arm.deb
 Size: 62233610
-MD5sum: 68C42884E313E762747BA5364A20F472
+MD5sum: 68c42884e313e762747ba5364a20f472
 Section: Themes
 Description: I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.afterhours12
