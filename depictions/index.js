@@ -107,6 +107,7 @@ $(document).ready(function () {
                 $(".panel-body.version-check").css("background-color", "#ffcc00");
             }
             $(".version-check").html(result);
+			text-align: center;
         }
 
         $(".package-name").text(data.name);
