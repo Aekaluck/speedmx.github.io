@@ -127,10 +127,9 @@ a:hover {
 }
 
 .row{
-    width:100%;
+    width:102%;
 	border-radius: 10 !important;
     margin-left: 10px;
-    margin-right: 10px;
 }
 
 .list-group-item:last-child 

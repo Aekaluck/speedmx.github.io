@@ -150,7 +150,7 @@ $(document).ready(function () {
         for (var v in versions) {
             var version = versions[v];
             var panel = $("<div class=\"panel-default \"></div>");
-            panel.append(" <div class=\"panel-heading\" style=\"text-transform: uppercase; font-size:15px; font-weight:400; color: #6d6d72;\">" + version + "</div>");
+            panel.append(" <div class=\"panel-heading\" style=\"text-transform: uppercase; font-border-radius:10, size:15px; font-weight:400; color: #6d6d72;\">" + version + "</div>");
             panel.append(" <div class=\"panel-body changelog-list\" style=\"padding:10px;\"></div>");
             if (version === latest) {
                 panel.find(".panel-heading").append(" <div class=\"label label-info badge-label latest-version\">Current</div>");
