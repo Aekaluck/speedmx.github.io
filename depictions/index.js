@@ -166,7 +166,7 @@ $(document).ready(function () {
 
         var links = data.links;
         var extra = {
-            //"<img class=\"icon\" src=\"icons/twitter.png\"><span>Find me on Twitter (@sPEeDMx)</span>": "https://twitter.com/speedmx",
+            "<img class=\"icon\" src=\"icons/twitter.png\"><span>Find me on Twitter (@sPEeDMx)</span>": "https://twitter.com/speedmx",
             "<img class=\"icon\" src=\"icons/email.png\"><span>ส่งอีเมล์</span>": "mailto:aek.speedmx@gmail.com",
             "<img class=\"icon\" src=\"icons/like.png\"><span>สนับสนุน &#x2615; <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/speedmx"
         };
