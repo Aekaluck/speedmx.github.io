@@ -1,3 +1,171 @@
+@font-face {
+  font-family:'SF Pro Text';
+  font-style:normal;
+  font-weight:500;
+  src:local('â˜ºï¸Ž'), url("fonts/sf-pro-text_medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family:'SF Pro Display';
+  font-style:normal;
+  font-weight:600;
+  src:local('â˜ºï¸Ž'), url("fonts/sf-pro-display_semibold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family:'SF Pro Display';
+  font-style:normal;
+  font-weight:500;
+  src:local('â˜ºï¸Ž'), url("fonts/sf-pro-display_medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family:'SF Pro Display';
+  font-style:normal;
+  font-weight:700;
+  src:local('â˜ºï¸Ž'), url("fonts/sf-pro-display_bold.woff2") format("woff2")
+}
+
+@font-face {
+  font-family:'SF Pro Display';
+  font-style:normal;
+  font-weight:400;
+  src:local('â˜ºï¸Ž'), url("fonts/sf-pro-display_regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family:'SF Pro Text';
+  font-style:normal;
+  font-weight:800;
+  src:local('â˜ºï¸Ž'), url("fonts/sf-pro-text_heavy.woff2") format("woff2");
+  /* (C) 2015 Apple Inc. All rights reserved.*/
+}
+
+@font-face {
+  font-family:'SF Pro Display';
+  font-style:normal;
+  font-weight:900;
+  src:local('☺︎'), url("fonts/sf-pro-display_black.woff2") format("woff2");
+}
+
+@font-face {
+  font-family:'SF Pro Text';
+  font-style:normal;
+  font-weight:800;
+  src:local('☺︎'), url("fonts/sf-pro-text_heavy.woff2") format("woff2");
+}
+
+@font-face {
+  font-family:'SF Pro Display';
+  font-style:normal;
+  font-weight:800;
+  src:local('â˜ºï¸Ž'), url("fonts/sf-pro-display_heavy.woff2") format("woff2");
+}
+
+@font-face {
+  font-family:'SF Pro Text';
+  font-style:normal;
+  font-weight:600;
+  src:local('â˜ºï¸Ž'), url("fonts/sf-pro-text_semibold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family:'SF Pro Text';
+  font-style:normal;
+  font-weight:400;
+  src:local('☺︎'), url("fonts/sf-pro-text_regular.woff2") format("woff2");
+}
+
+
+.disable-hover {
+    pointer-events: none;
+}
+
+.link-item {
+    list-style-type: none;
+    padding: 17px 15px;
+    display: block;
+    color: #337ab7 !important;
+    text-align: left;
+}
+
+.link-item:hover {
+    border: 1px solid #ddd;
+    background-color: #f5f5f5;
+}
+
+html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
+    background-color: #fff;
+}
+
+html.can-touch .link-item:active{ /* disable hover effect when input is touch */
+    background-color: #f5f5f5;
+}
+
+.fa {
+    font-size: 16px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.container {
+	padding-top: 15px !important;
+    margin-bottom: 15px !important;
+	display: block !important;
+    margin: 0 !important;
+    border: 0 !important;
+    margin-top: 9px !important;
+    margin-bottom: 15px !important;
+    width: 100% !important;
+	padding-right: 13px;
+    padding-left: 13px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white !important;
+    text-align: left !important;
+    border-radius: 15px !important;
+    overflow: hidden;
+    display: block !important;
+    padding: 15px 20px !important;
+    box-shadow: 2px 2px 40px -12px #999 !important;
+    font-size: 15px !important;
+    color: #666 !important;
+}
+
+.alert {
+	margin-bottom: 0px !important;
+}
+
+.jumbotron {
+	margin-bottom: 0px !important;
+	padding-bottom: 10px !important;
+	padding-top: 10px !important;
+	margin-top: 0px !important;
+}
+
+h5 {
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-weight: 800 !important;
+	color: #111;
+	font-size: 100%;
+    vertical-align: baseline;
+	font-size: 20px;
+}
+
+.packagetitle {
+	font-size: 35px;
+    font-weight: 800;
+    color: black;
+    line-height: 1.5;
+	max-width: 120%;
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+body {
+	background:#efeff4!important;margin:0;padding:0;border:0;outline:0;box-sizing:border-box
+}
+
+
 h2 {
     color: #6d6d72;
     font-size: 13px;
