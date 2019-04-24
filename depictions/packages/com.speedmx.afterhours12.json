@@ -10,11 +10,6 @@
 	"changelog": {
 	    "1.0": [
 	      "Initial release"
-	    ],
-	    "1.1-1": [
-	    "SB1: เพิ่ม icon",
-	    "SB2: แก้ไขบาง icon"
-		"SB3: ลดขนาดธีมลง"
 	    ]
   	},
 	"screenshots": {
@@ -23,7 +18,7 @@
 		"ah3.jpg": "",
 		"ah4.jpg": "",
 		"ah5.jpg": "",
-		"ah6.jpg": "",
+		"ah6.jpg": ""
 	},
 	"links": {}
 }
