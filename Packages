@@ -7,7 +7,7 @@ Author: Rob Grohman
 Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: com.cydia.lnweakky.afterhour12
 Filename: ./debs/com.speedmx.afterhours12_1.0_iphoneos-arm.deb
-Size: 62,233,610
+Size: 62233610
 MD5sum: 68C42884E313E762747BA5364A20F472
 SHA1: 2567B71625B3A08E2F75A10FCA60E134C162DE97
 SHA256: F7AC7C971CED9D167212ED5AF2C316882D3B3432029AFB161A32DBF76DC1117B
