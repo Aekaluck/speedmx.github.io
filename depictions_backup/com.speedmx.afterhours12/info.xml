@@ -4,40 +4,20 @@
 	<version>1.1-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>9.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>XenInfo: Install it BEFORE you download this widget</package>
-	</dependencies>
+	<dependencies></dependencies>
 	<descriptionlist>
-		<description><![CDATA[<b>Installed to:</b> </ br>/var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS) <br /> <br />
-                          <b>Apply with Xen HTML</b>]]></description>
-		<description>Optimised for all iOS (including iOS11) &amp; fits all resolutions (including iPX)</description>
-		<description>Requires XenInfo for weather/battery components to work properly</description>
-		<description><![CDATA[<b>Need help?</b> <br />
-							Brief instructions contained in the TXT within the widget folder <br />
-							Link to tutorials in my pinned tweet]]></description>
+		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<image>ah1.png</image>
-		</screenshot>
-		<screenshot>
-			<image>ah2.png</image>
-		</screenshot>
-		<screenshot>
-			<image>ah3.png</image>
-		</screenshot>
-		<screenshot>
-			<image>ah4.png</image>
-		</screenshot>
-		<screenshot>
-			<image>ah5.png</image>
-		</screenshot>
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
-		<change>Fixed potential freezing on iPX</change>
+		<change>Initial release</change>
 	</changelog>
+	<links></links>
 </package>
