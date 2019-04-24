@@ -25,7 +25,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 
 .fa {
     font-size: 16px;
-    margin-left: 5px;
+    margin-left: 10px;
     margin-right: 10px;
 }
 
@@ -108,13 +108,20 @@ a:hover {
 }
 
 .badge-label {
-    border-radius: 1em;
+    border-radius: 10em;
 }
 
 .panel,
 .list-group-item,
 .alert {
-    border-radius: 2 !important;
+    border-radius: 10 !important;
+}
+
+.row{
+    width:100%;
+	border-radius: 10 !important;
+	margin-bottom: -1px;
+	text-align: auto;
 }
 
 .list-group-item:last-child 
@@ -132,10 +139,12 @@ a:hover {
 .subshots {
     text-align: center;
     max-width: 96.5%;
+	height: auto;
 }
 
 .subshots:nth-child(1) {
     margin-bottom: 6px;
+	height: auto;
 }
 
 .screenshots img {
@@ -174,7 +183,7 @@ a:hover {
 .icon {
     height: 30px;
     width: 30px;
-    margin-right: 8px;
+    margin-right: 5px;
     margin-top: -4px;
 }
 
