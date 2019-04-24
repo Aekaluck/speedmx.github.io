@@ -80,7 +80,7 @@ $(document).ready(function () {
         var currentVersion = iOSVersion();
         if (typeof currentVersion === 'undefined' &&
             (typeof data.minOSVersion !== 'undefined' || typeof(data.maxOSVersion) !== 'undefined')) {
-            var result = "<strong>Compatible with iOS ";
+            var result = "<strong>รองรับ iOS ";
 
             if (typeof data.minOSVersion != 'undefined') {
                 result += data.minOSVersion;
@@ -97,11 +97,11 @@ $(document).ready(function () {
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
             if (supported) {
-                result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
+                result += "เวอร์ชั่น iOS ของคุณ (" + currentVersion + ") is <strong>รองรับ</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#a6d841");
             } else{
-                result += "<strong>Not confirmed</strong> to work on your iOS version";
+                result += "<strong>Not confirmed</strong> รองรับ iOS เวอร์ชั่นของคุณ";
                 result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
                 result += " &#x1F914;";
                 $(".panel-body.version-check").css("background-color", "#ffcc00");
