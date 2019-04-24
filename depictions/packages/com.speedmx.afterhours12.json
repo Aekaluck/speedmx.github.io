@@ -5,7 +5,6 @@
 	"version": "1.1-1",
 	"dependency": "mobilesubstrate",
 	"minOSVersion": "9.0",
-	"maxOSVersion": "12.1.2",
 	"otheriOS": "unsupported",
 	"description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br>Requires XenInfo for weather/battery components to work properly<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
@@ -21,7 +20,7 @@
 		"ah2.png": "",
 		"ah3.png": "",
 		"ah4.png": "",
-		"ah1.png": ""
+		"ah5.png": ""
 	},
 	"links": {}
 }
