@@ -9,36 +9,35 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>XenInfo: Install it BEFORE you download this widget</package>
 	</dependencies>
 	<descriptionlist>
-		<description><![CDATA[<b>Installed to:</b> </ br>/Library/Themes/ <br /> <br />
-                          <b>Apply with Anemone or SnowBroad</b>]]></description>
-		<description>I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12</description>
+		<description><![CDATA[<b>Installed to:</b> </ br>/var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS) <br /> <br />
+                          <b>Apply with Xen HTML</b>]]></description>
+		<description>Optimised for all iOS (including iOS11) &amp; fits all resolutions (including iPX)</description>
+		<description>Requires XenInfo for weather/battery components to work properly</description>
+		<description><![CDATA[<b>Need help?</b> <br />
+							Brief instructions contained in the TXT within the widget folder <br />
+							Link to tutorials in my pinned tweet]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<image>ah1.jpg</image>
+			<image>ah1.png</image>
 		</screenshot>
 		<screenshot>
-			<image>ah2.jpg</image>
+			<image>ah2.png</image>
 		</screenshot>
 		<screenshot>
-			<image>ah3.jpg</image>
+			<image>ah3.png</image>
 		</screenshot>
 		<screenshot>
-			<image>ah4.jpg</image>
+			<image>ah4.png</image>
 		</screenshot>
 		<screenshot>
-			<image>ah5.jpg</image>
-		</screenshot>
-		<screenshot>
-			<image>ah6.jpg</image>
+			<image>ah5.png</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change> - เพิ่ม icon</change>
-		<change> - แก้ไขบาง icon</change>
-		<change> - ลดขนาดธีมลง</change>
+		<change>Fixed potential freezing on iPX</change>
 	</changelog>
 </package>
