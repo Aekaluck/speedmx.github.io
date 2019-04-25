@@ -99,12 +99,12 @@ $(document).ready(function () {
             if (supported) {
                 result += "รองรับ iOS <strong>" + currentVersion + "</strong> ของคุณ &#x1f44c;";
                 // $(".version-check").css("color", "green");
-                $(".panel-body.version-check").css("background-color", "#a6d841");
+                $(".panel-body.version-check").css("background-color", "#41da8d");
             } else{
-                result += "<strong>Not confirmed</strong> to work on your iOS version";
+                result += "ไม่รับรองว่าจะทำงานบน iOS ";
                 result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
-                result += " &#x1F914;";
-                $(".panel-body.version-check").css("background-color", "#ffcc00");
+                result += " ของคุณได้ &#x1f44a;";
+                $(".panel-body.version-check").css("background-color", "#f9b630");
             }
             $(".version-check").html(result);
         }
