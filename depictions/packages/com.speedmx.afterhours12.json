@@ -2,7 +2,7 @@
 	"name": "AfterHours Mod12",
 	"package": "com.speedmx.afterhours12",
 	"author": "Rob Grohman",
-	"version": "1.0",
+	"version": "1.1-2",
 	"dependency": "mobilesubstrate",
 	"minOSVersion": "9.0",
 	"maxOSVersion": "12.1.2",
@@ -10,9 +10,14 @@
 	"description": "<div>I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12<br><br>Thank for Original icon by @Rob Grohman</div>",
   	"changelog": 
 	{
-	    "1.0": 
-		[
+	    "1.0": [
 	      "Initial release"
+	    ],
+	    "1.1-1": [
+	      "- เพิ่ม icon เกือบ 1000 แล้ว",
+		  "- เพิ่ม alt icon",
+		  "- ลดขนาดธีมลง",
+		  "- แก้ไขบาง icon"
 	    ]
   	},
 	"screenshots": 

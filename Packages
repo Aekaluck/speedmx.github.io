@@ -1,15 +1,17 @@
 Package: com.speedmx.afterhours12
-Version: 1.0
+Version: 1.1-2
 Architecture: iphoneos-arm
 Name: AfterHours Mod12
 Maintainer: aEk <aek.speedmx@gmail.com>
 Author: Rob Grohman
 Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: com.cydia.lnweakky.afterhours12
-Filename: ./debs/com.speedmx.afterhours12_1.0_iphoneos-arm.deb
+Filename: ./debs/com.speedmx.afterhours12_1.1-2_iphoneos-arm.deb
 Icon: file:///Library/Themes/AH12.Main.theme/Bundles/com.apple.AppStore/AppIcon29x29@3x.png
-Size: 62233610
-MD5sum: 68c42884e313e762747ba5364a20f472
+Size: 46698764
+MD5sum: 19db9aa5a9197d89603dda086567e721
+SHA1: 0f3d301e64fea7061c8ac7e59e2971f80e91c5fb
+SHA256: 7f1b701c2541bb81cb35ed9a6cd09eb6d8690ee8bedd6adda2250b735e970555
 Section: Themes
 Description: I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12
 Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.afterhours12
