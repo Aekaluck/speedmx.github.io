@@ -7,7 +7,7 @@ Author: Rob Grohman
 Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: com.cydia.lnweakky.afterhours12
 Filename: ./debs/com.speedmx.afterhours12_1.0_iphoneos-arm.deb
-Icon: file:///depictions/icons/ah.png
+Icon: file:///icons/ah.png
 Size: 62233610
 MD5sum: 68c42884e313e762747ba5364a20f472
 Section: Themes
