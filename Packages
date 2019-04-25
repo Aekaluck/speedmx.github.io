@@ -23,7 +23,7 @@ Author: Rob Grohman
 Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: com.cydia.lnweakky.afterhours12
 Filename: ./debs/com.speedmx.afterhours12_1.0_iphoneos-arm.deb
-Icon: file:///Library/Themes/AH12.Main.theme/Bundles/com.apple.springboard/SFT_AppStore@3x.png
+Icon: file:///Library/Themes/AH12.Main.theme/Bundles/com.apple.AppStore/AppIcon29x29@3x.png
 Size: 62233610
 MD5sum: 68c42884e313e762747ba5364a20f472
 Section: Themes
