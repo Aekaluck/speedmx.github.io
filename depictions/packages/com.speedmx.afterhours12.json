@@ -14,10 +14,7 @@
 	      "Initial release"
 	    ],
 	    "1.1-2": [
-	      "- เพิ่ม icon เกือบ 1000 แล้ว",
-		  "- เพิ่ม alt icon",
-		  "- ลดขนาดธีมลง",
-		  "- แก้ไขบาง icon"
+	      "- เพิ่ม icon เกือบ 1000 แล้ว<br>- เพิ่ม alt icon<br>- ลดขนาดธีมลง<br>- แก้ไขบาง icon"
 	    ]
   	},
 	"screenshots": 
@@ -25,7 +22,8 @@
 		"ah1.png": "",
 		"ah2.png": "",
 		"ah3.png": "",
-		"ah4.png": ""
+		"ah4.png": "",
+		"ah5.png": ""
 	},
 	"links": {}
 }
