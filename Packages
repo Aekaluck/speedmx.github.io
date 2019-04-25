@@ -1,3 +1,20 @@
+Package: com.speedmx.fcbarcamod
+Version: 1.0
+Architecture: iphoneos-arm
+Name: FCbarca Mod
+Maintainer: aEk <aek.speedmx@gmail.com>
+Author: moondr1
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.speedmx.fcbarcamod_1.0_iphoneos-arm.deb
+Size: 8267172
+MD5sum: eee65186a4ece32a3e3165b7b3a17a00
+SHA1: d452a154d3ff3ada82ce57b2c9b70d71277d7c8b
+SHA256: 34b8a39dd4a42229fbbc0b389441c0165955476fbe42bf9dcae3e48e1c736a81
+Section: Themes
+Description: FC Barcelona theme for Fan iOS 11/12
+Depiction: https://speedmx.github.io/depictions/?p=com.speedmx.fcbarcamod
+Icon: file:///Library/Themes/fcbarca.theme/UIImages/icon.png
+
 Package: com.speedmx.afterhours12
 Version: 1.1-2
 Architecture: iphoneos-arm
