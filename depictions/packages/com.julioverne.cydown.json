@@ -1,0 +1,26 @@
+{
+	"name": "CyDown",
+	"package": "com.julioverne.cydown",
+	"author": "julioverne <julioverne@me.com>",
+	"version": "6.9.7-1",
+	"dependency": "cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader",
+	"minOSVersion": "8.3",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "unsupported",
+	"description": "<div>Install paid packages for free in Cydia !.</div>",
+  	"changelog": 
+	{
+	    "6.9.7-1": 
+		[
+	      "Update Localizable"
+	    ]
+  	},
+	"screenshots": 
+	{
+		"ah1.png": "",
+		"ah2.png": "",
+		"ah3.png": "",
+		"ah4.png": ""
+	},
+	"links": {}
+}

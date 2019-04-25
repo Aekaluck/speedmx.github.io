@@ -1,3 +1,19 @@
+Package: com.julioverne.cydown
+Version: 6.9.7-1
+Architecture: iphoneos-arm
+Name: CyDown
+Maintainer: aEk <aek.speedmx@gmail.com>
+Author: julioverne <julioverne@me.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Conflicts: cydia.kiiimo.org.cydown, com.yourepo.mohadu31.cydown
+Filename: ./debs/com.julioverne.cydown_6.9.7-1_iphoneos-arm.deb
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Size: 4533760
+MD5sum: 4bfcc8445e67245a07c40fedd7be9c33
+Section: Tweaks
+Description: Install paid packages for free in Cydia !.
+Depiction: https://speedmx.github.io/depictions/?p=com.julioverne.cydown
+
 Package: com.speedmx.afterhours12
 Version: 1.0
 Architecture: iphoneos-arm
@@ -7,7 +23,7 @@ Author: Rob Grohman
 Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: com.cydia.lnweakky.afterhours12
 Filename: ./debs/com.speedmx.afterhours12_1.0_iphoneos-arm.deb
-Icon: https://speedmx.github.io/depictions/icons/ah.png
+Icon: file:///Library/Themes/AH12.Main.theme/Bundles/com.apple.springboard/SFT_AppStore@3x.png
 Size: 62233610
 MD5sum: 68c42884e313e762747ba5364a20f472
 Section: Themes
