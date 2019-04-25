@@ -97,7 +97,7 @@ $(document).ready(function () {
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
             if (supported) {
-                result += "รองรับ iOS <strong>" + currentVersion + "</strong> ของคุณ &#x1F592;";
+                result += "รองรับ iOS <strong>" + currentVersion + "</strong> ของคุณ &#x1f44c;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#a6d841");
             } else{
