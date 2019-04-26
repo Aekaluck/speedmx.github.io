@@ -7,7 +7,10 @@
 	"minOSVersion": "9.0",
 	"maxOSVersion": "12.1.2",
 	"otheriOS": "unsupported",
-	"description": "<div>I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12<br><br>Thank for Original icon by @Rob Grohman</div>",
+	"description": "<div>I'm black.. in HD.) ..Live Now ) ☻ Mod for iOS 12<br><br>Thank for Original icon by @Rob Grohman<br><video width="618" height="347" controls preload> 
+    <source src="video.mp4" media="only screen and (min-device-width: 568px)"></source>
+    <source src="video.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
+</video></div>",
   	"changelog": 
 	{
 	    "1.0": [
@@ -23,8 +26,7 @@
 		"ah2.png": "",
 		"ah3.png": "",
 		"ah4.png": "",
-		"ah5.png": "",
-		"<video width="618" height="347" controls preload><source src="video.mp4" media="only screen and (min-device-width: 568px)"></source></video>": ""
+		"ah5.png": ""
 	},
 	"links": {}
 }
